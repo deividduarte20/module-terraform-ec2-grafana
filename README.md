@@ -1,4 +1,6 @@
-Código consiste em criar ec2 com sg liberando portas ssh 22 e grafana 3000, com key.pem
+# terraform-ec2-grafana
+
+### O projeto consiste em criar ec2 com sg liberando portas ssh 22 e grafana 3000, com key.pem
 
 
 
