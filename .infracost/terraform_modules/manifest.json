@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"ec2-grafana","Source":"./modules/ec2","Dir":"modules/ec2"},{"Key":"sg-tf","Source":"./modules/sg-tf","Dir":"modules/sg-tf"}]}
