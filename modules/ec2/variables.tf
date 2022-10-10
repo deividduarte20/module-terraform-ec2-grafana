@@ -14,3 +14,7 @@ variable "inst_ami" {
   type    = string
   default = "ami-052efd3df9dad4825"
 }
+
+variable "sg-tf" {
+
+}
